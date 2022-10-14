@@ -14,6 +14,33 @@
         android:theme="@style/Theme.RHN"
         tools:targetApi="31">
         <activity
+            android:name=".career"
+            android:exported="false" />
+        <activity
+            android:name=".asdf"
+            android:exported="false" />
+        <activity
+            android:name=".as"
+            android:exported="false" />
+        <activity
+            android:name=".cwork"
+            android:exported="false" />
+        <activity
+            android:name=".Growers_and_Exporters"
+            android:exported="false" />
+        <activity
+            android:name=".Training_and_development"
+            android:exported="false" />
+        <activity
+            android:name=".consulting_services"
+            android:exported="false" />
+        <activity
+            android:name=".Real_estate_investment_and_development"
+            android:exported="false" />
+        <activity
+            android:name=".Design_build_solutions"
+            android:exported="false" />
+        <activity
             android:name=".setting"
             android:exported="false" />
         <activity
@@ -51,9 +78,6 @@
             android:exported="false" />
         <activity
             android:name=".add_ca_member"
-            android:exported="false" />
-        <activity
-            android:name=".career"
             android:exported="false" />
         <activity
             android:name=".add_ac_member"

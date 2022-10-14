@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item name="construction_work" type="id">construction_work</item>
+    <item name="asdf" type="id">construction_work</item>
 </resources>

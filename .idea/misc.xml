@@ -3,7 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/RHN/app/src/main/res/layout/activity_career.xml" value="0.12158054711246201" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_accounting.xml" value="0.24230072463768115" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_add_ca_member.xml" value="0.10989583333333333" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_add_engineer.xml" value="0.1" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_as.xml" value="0.2359375" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_career.xml" value="0.264" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_career2.xml" value="0.10989583333333333" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_construction_work.xml" value="0.24230072463768115" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_consulting_services.xml" value="0.24230072463768115" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_design_build_solutions.xml" value="0.2359375" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_frogetpsw.xml" value="0.12158054711246201" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_growers_and_exporters.xml" value="0.2359375" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_login.xml" value="0.12158054711246201" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_real_estate_investment_and_development.xml" value="0.2359375" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_setting2.xml" value="0.1" />
+        <entry key="..\:/RHN/app/src/main/res/layout/activity_training_and_development.xml" value="0.24230072463768115" />
         <entry key="..\:/Users/User/AndroidStudioProjects/RHN/app/src/main/res/layout/activity_accounting.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/RHN/app/src/main/res/layout/activity_add_ac_member.xml" value="0.16" />
         <entry key="..\:/Users/User/AndroidStudioProjects/RHN/app/src/main/res/layout/activity_add_ca_member.xml" value="0.11271529888551166" />
